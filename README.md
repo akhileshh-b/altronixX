@@ -21,3 +21,4 @@ Welcome to **altronixX**, a smart and intuitive **Skill Gap Analysis tool** that
 
 ## ML Project – Content Generation 🤖  
 [Notebook](https://github.com/akhileshh-b/altronixX/blob/main/ML_project_content_generation.ipynb)
+[Colab](https://colab.research.google.com/drive/18HjpIUl11EQAxQI0FaHOHJNsmeNdVJTp?usp=sharing)
